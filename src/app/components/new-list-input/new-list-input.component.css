@@ -1,0 +1,15 @@
+#new-list-input {
+  margin: 15px;
+  width: calc(100% - 30px);
+}
+
+mat-form-field mat-label {
+  color: white !important;
+}
+mat-form-field input::placeholder {
+  color: rgb(136, 136, 136) !important;
+}
+
+mat-form-field input {
+  color: white !important;
+}
